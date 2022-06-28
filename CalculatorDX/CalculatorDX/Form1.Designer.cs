@@ -316,7 +316,6 @@
             this.Controls.Add(this.simpleButton1);
             this.Name = "Form1";
             this.Text = "Calc";
-            this.Click += new System.EventHandler(this.sb_buttonadd);
             ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).EndInit();
             this.ResumeLayout(false);
 
